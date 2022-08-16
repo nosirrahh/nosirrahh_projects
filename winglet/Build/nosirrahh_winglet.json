@@ -1,0 +1,12 @@
+{
+"companyName": "nosirrahh",
+"productName": "nosirrahh_winglet",
+"dataUrl": "nosirrahh_winglet.data.unityweb",
+"wasmCodeUrl": "nosirrahh_winglet.wasm.code.unityweb",
+"wasmFrameworkUrl": "nosirrahh_winglet.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#000000"
+}

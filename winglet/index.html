@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>nosirrahh | nosirrahh_winglet</title>
+	<link rel="shortcut icon" href="TemplateData/favicon.png">
+	<style>
+	html, body {
+		margin: 0;
+		padding: 0;
+		background-color: black;
+	}
+	</style>
+	
+    <script src="Build/UnityLoader.js"></script>
+    <script>
+      var gameInstance = UnityLoader.instantiate("gameContainer", "Build/nosirrahh_winglet.json");
+    </script>
+	<script>
+	function resizeCanvas() {
+			console.log("resizeCanvas");
+            const container = document.getElementById("gameContainer");
+			const canvs = document.getElementById("#canvas");
+			
+			let w; let h;
+			w = window.innerWidth;
+			h = w * 9 / 16;
+
+			if (h > window.innerHeight){
+				h = window.innerHeight;
+				w = h * 16 / 9;
+			}
+			
+			const margin_top = (window.innerHeight - h) / 2;
+			const margin_left = (window.innerWidth - w) / 2;
+
+			if (container) {
+				container.style.width = w + "px";
+				container.style.height = h + "px";
+				container.style.marginTop = margin_top + "px";
+				container.style.marginLeft = margin_left + "px";
+			}
+         	
+			if (canvs) {
+				canvs.width = w;
+				canvs.height = h;
+			}
+         }
+		 function myFunction(){
+			console.log("aqui aqui aqui");
+		 }
+	</script>
+  </head>
+  <body onload="resizeCanvas();" onresize="resizeCanvas()">
+	<div id="gameContainer" style="width: 960px; height: 600px;"></div>
+  </body>
+</html>
