@@ -2,7 +2,7 @@
 
 ### Winglet
 
-O projeto foi desenvolvido em parceria com alunos do curso de Engenharia Mecânica da UNA, para exemplificar o comportamento do ar em uma asa de avião.
+O projeto foi desenvolvido em parceria com alunos do curso de Engenharia Mecânica, para exemplificar o comportamento do ar em uma asa de avião.
 
 Veja o projeto clicando [aqui.](https://nosirrahh.github.io/nosirrahh_projects/nosirrahh_winglet/index.html)
 
