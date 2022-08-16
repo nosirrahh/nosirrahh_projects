@@ -10,4 +10,4 @@ Veja o projeto clicando [aqui.](https://nosirrahh.github.io/nosirrahh_projects/n
 
 O projeto foi desenvolvido como protótipo durante as férias para um jogo de Tower Defense.
 
-Veja o projeto clicando [aqui.](https://nosirrahh.github.io/nosirrahh_projects/spawner-example/index.html)
+Veja o projeto clicando [aqui.](https://nosirrahh.github.io/nosirrahh_projects/spawner_example/index.html)
