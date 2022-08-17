@@ -9,9 +9,12 @@ O projeto foi desenvolvido em parceria com alunos do curso de Engenharia Mecâni
 Veja o projeto clicando [aqui.](https://nosirrahh.github.io/nosirrahh_projects/winglet/index.html)
 
 >**Créditos**
-["Wispy Skybox"](https://www.assetstore.unity3d.com/en/#!/content/21737) by [Mundus Limited](https://www.assetstore.unity3d.com/en/#!/search/page=1/sortby=popularity/query=publisher:4555).
-["Material Design"](http://www.flaticon.com/packs/material-design) by [Google](http://www.flaticon.com/authors/google) is licensed under [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/).
-["Communication and media"](http://www.flaticon.com/packs/communication-and-media) by [Freepik](http://www.flaticon.com/authors/freepik) is licensed under [Flaticon Basic License](http://file000.flaticon.com/downloads/license/license.pdf).
+>
+>["Wispy Skybox"](https://www.assetstore.unity3d.com/en/#!/content/21737) by [Mundus Limited](https://www.assetstore.unity3d.com/en/#!/search/page=1/sortby=popularity/query=publisher:4555).
+>
+>["Material Design"](http://www.flaticon.com/packs/material-design) by [Google](http://www.flaticon.com/authors/google) is licensed under [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/).
+>
+>["Communication and media"](http://www.flaticon.com/packs/communication-and-media) by [Freepik](http://www.flaticon.com/authors/freepik) is licensed under [Flaticon Basic License](http://file000.flaticon.com/downloads/license/license.pdf).
 
 ## Aquele com um metrô
 
@@ -22,7 +25,8 @@ O projeto foi desenvolvido em parceria com alunos do curso de Engenharia Mecâni
 Veja o projeto clicando [aqui.](https://nosirrahh.github.io/nosirrahh_projects/subway/index.html)
 
 >**Créditos**
-["Material Design"](http://www.flaticon.com/packs/material-design) by [Google](http://www.flaticon.com/authors/google) is licensed under [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/).
+>
+>["Material Design"](http://www.flaticon.com/packs/material-design) by [Google](http://www.flaticon.com/authors/google) is licensed under [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/).
 
 ## Aquele com um gerador
 
@@ -42,5 +46,7 @@ Depois de um tempo descobri que o nome do jogo é [Breakout](https://pt.wikipedi
 Veja o projeto clicando [aqui.](https://nosirrahh.github.io/nosirrahh_projects/nosirrahh_pong/index.html)
 
 >**Créditos**
-["Pack: Pong softsynth by NoiseCollector"](https://www.freesound.org/people/NoiseCollector/packs/254/) by [NoiseCollector](https://www.freesound.org/people/NoiseCollector/) is licensed under [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/).
-["Material Design"](http://www.flaticon.com/packs/material-design) by [Google](http://www.flaticon.com/authors/google) is licensed under [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/).
+>
+>["Pack: Pong softsynth by NoiseCollector"](https://www.freesound.org/people/NoiseCollector/packs/254/) by [NoiseCollector](https://www.freesound.org/people/NoiseCollector/) is licensed under [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/).
+>
+>["Material Design"](http://www.flaticon.com/packs/material-design) by [Google](http://www.flaticon.com/authors/google) is licensed under [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/).
